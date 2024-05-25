@@ -29,5 +29,5 @@ export const runGame = (rules, getRoundData) => {
 
     currentRound += 1;
   }
-  console.log(`Congratulations, ${name}`);
+  console.log(`Congratulations, ${name}!`);
 };
