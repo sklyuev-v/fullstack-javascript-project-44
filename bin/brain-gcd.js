@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { rules, getRoundData } from '../src/games/brain-gcd-logic.js';
 import { runGame } from '../src/index.js';
 
